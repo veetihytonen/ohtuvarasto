@@ -1,3 +1,3 @@
 # ohtuvarasto
 
-![CI badge](https://github.com/veetihytonen/ohtuvarasto/actions/workflows/main.yml/badge.svg)
+![![CI badge](https://github.com/veetihytonen/ohtuvarasto/actions/workflows/CI/badge.svg)](google.com)
